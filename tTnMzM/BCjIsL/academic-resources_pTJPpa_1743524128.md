@@ -18,7 +18,6 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 This repo is aimed to build up a collection of resources useful to folks in the academic space who want content around Microsoft technologies, especially developing using the Cloud, in this case Azure. This includes educators wanting content to help build curriculum, students wanting further resources to expand their knowledge, hackathon organizers and attendees who want workshops, and computer society organizers who want content for events.
 
-Although most of this content is aimed at the higher education space, there is content for K-12 educators and students.
 
 ## What kind of content are you after?
 
