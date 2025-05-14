@@ -9,7 +9,6 @@ module.exports = {
       tsconfig: 'tsconfig.json'
     }]
   },
-  moduleFileExtensions: ['ts', 'js', 'json', 'node'],
   testTimeout: 30000,
   verbose: true,
   forceExit: true,
